@@ -59,3 +59,6 @@ The task was performed using command-line tools, specifically psql for PostgreSQ
 # CONCLUSION:-
 Data successfully migrated from MYSQL to PostgreSQL without data loss.
 
+# OUTPUT:-
+
+
