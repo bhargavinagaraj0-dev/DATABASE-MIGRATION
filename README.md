@@ -60,5 +60,10 @@ The task was performed using command-line tools, specifically psql for PostgreSQ
 Data successfully migrated from MYSQL to PostgreSQL without data loss.
 
 # OUTPUT:-
+# CUSTOMER TABLE: 
+
+# ORDERS TABLE:
+
+# DATA INTEGRITY(INNER JOIN):
 
 
