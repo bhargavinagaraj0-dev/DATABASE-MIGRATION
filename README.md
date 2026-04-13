@@ -64,19 +64,22 @@ Data successfully migrated from MYSQL to PostgreSQL without data loss.
 
 <img width="706" height="283" alt="Image" src="https://github.com/user-attachments/assets/4327b4fc-29fe-4a33-9ab4-5f9760eea967" />
 
+# ORDERS TABLE:
 
 <img width="436" height="192" alt="Image" src="https://github.com/user-attachments/assets/9f8a8759-1d02-4e13-9ecd-c067dbf8fc11" />
 
+# TABLES  AFTER MIGRATION:-
+# CUSTOMERS TABLE:
 
 <img width="1071" height="258" alt="Image" src="https://github.com/user-attachments/assets/2cb43b2e-997a-4ac4-90fa-aeb99e7f92f4" />
 
+# ORDERS TABLE:
 
 <img width="677" height="272" alt="Image" src="https://github.com/user-attachments/assets/20460452-84c8-437b-a85d-5ee07e092f2b" />
 
+# DATA INTEGRITY(INNER JOIN):
 
 <img width="1321" height="187" alt="Image" src="https://github.com/user-attachments/assets/4b220984-0fc5-4ba5-a19c-d7e47eef3429" />
-# ORDERS TABLE:
 
-# DATA INTEGRITY(INNER JOIN):
 
 
